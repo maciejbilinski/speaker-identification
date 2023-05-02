@@ -1,0 +1,9 @@
+clips
+lightning_logs/*
+!lightning_logs/version_18
+prepared_data
+venv
+*.tsv
+*.csv
+*.pkl
+__pycache__
