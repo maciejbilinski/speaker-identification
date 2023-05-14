@@ -7,3 +7,6 @@ venv
 *.csv
 *.pkl
 __pycache__
+checkpoints*
+old_py
+runs

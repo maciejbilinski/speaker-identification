@@ -11,3 +11,9 @@ Zrobiłem mały preprocessing, żeby dało się tworzyć batche
     python src\main.py
 
 # Ewaluacja
+
+
+- zmiana MelSpectrogramu na inne hyperparams
+- zmiana architektury
+- zmiana datasetu (!) -> streaming angielskiego datasetu
+batch=64 wydaje sie okej, ewentualnie 128
