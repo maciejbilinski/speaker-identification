@@ -8,5 +8,7 @@ venv
 *.pkl
 __pycache__
 checkpoints*
+!checkpoints_1684055949.5869625
 old_py
-runs
+runs/*
+!runs/May14_11-19-09_DESKTOP-2HRD337
